@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Ricardo
 
-<!--
-**ricardodrn/ricardodrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer with 9+ years building web applications, microservices and cloud infrastructure for enterprise clients like Cisco and Telefónica.
 
-Here are some ideas to get you started:
+- **Stack:** Python (Django), React, TypeScript, Node.js, GCP, AWS
+- Currently building enterprise features for Cisco products at SoftServe
+- Google Cloud Certified – Professional Cloud Developer
+- AI-assisted development with Claude Code and OpenAI Codex
+- Based in Chile, relocating to Spain (Madrid/Barcelona)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Open source
+
+- [**@rdnr/react-country-flags**](https://www.npmjs.com/package/@rdnr/react-country-flags): React country flag components, 500+ weekly downloads on npm
+- [**spotdiff**](https://github.com/ricardodrn/spotdiff): zero-dependency object diff/patch/humanize in strict TypeScript
+- [**cortapro**](https://github.com/ricardodrn/cortapro): cutting optimizer using packing algorithms to minimize material waste
+
+ricardo.nain.r@gmail.com · [LinkedIn](https://linkedin.com/in/ricardo-nain-r)
